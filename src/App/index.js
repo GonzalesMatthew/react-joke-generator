@@ -7,7 +7,6 @@ function App() {
   const [allJokes, setAllJokes] = useState([]);
   const [singleJoke, setSingleJoke] = useState({});
   const [showPunchline, setShowPunchline] = useState(false);
-
   const handleClick = () => {
     if (showPunchline) {
       setShowPunchline(false);
