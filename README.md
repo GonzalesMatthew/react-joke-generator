@@ -12,13 +12,13 @@ This is the first external API, not including Firebase, which I've connected to 
   Built with React, connected to external API, joke setup and punchline, button which reveals punchline and also gets a new joke ready.
 ### Screenshots of your project
 
-Joke setup:
+Joke setup:<br>
 ![App Screenshot](img/jokeGenSetup.png)
 
-Button reveals punchline and is ready to get a new joke:
+Button reveals punchline and is ready to get a new joke:<br>
 ![App Screenshot](img/jokeGenPunchline.png)
 
-Button gets a new joke setup and hides the punchline:
+Button gets a new joke setup and hides the punchline:<br>
 ![App Screenshot](img/jokeGenNewJoke.png)
 
 ### List of contributors and links to their GH profiles
